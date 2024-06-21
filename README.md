@@ -31,7 +31,7 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:vv1771@srmist.edu.in">0xabdulkhalid@gmail.com</a>
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:vv1771@srmist.edu.in">vv1771@srmist.edu.in</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
